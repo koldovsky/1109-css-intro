@@ -1,0 +1,7 @@
+.subscribe__video,
+.subscribe__map {
+    display: block;
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    padding: 20px;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,400;6..12,700&family=Work+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --title-text-color: #002c8f;
+    --background-dark-color:  #002c8f;
+    --background-light-color: #21b6ff;
+    scroll-behavior: smooth;
+    font-family: 'Work Sans', sans-serif;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+
+

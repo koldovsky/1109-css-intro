@@ -1,0 +1,5 @@
+.header__title {
+    color: var(--title-text-color);
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
